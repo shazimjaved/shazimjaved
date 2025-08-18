@@ -1,61 +1,81 @@
-## Hi there 👋
-<!-- Banner -->
+<!-- GIF Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F700&width=600&lines=Hi%2C+I'm+Shazim+Javed;Machine+Learning+Engineer;AI+%7C+Deep+Learning+Enthusiast;Building+Smart+AI+Solutions+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="AI Banner" />
 </p>
 
-<!-- Header -->
-<h1 align="center">🚀 Welcome to My GitHub Profile</h1>
+<h1 align="center">Hi 👋, I'm Shazim Javed</h1>
+<h3 align="center">🚀 AI/ML Enthusiast | Python Developer | Web Solutions Architect</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast+%F0%9F%A4%96;Python+Programmer+%F0%9F%90%8D;Full-Stack+Web+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%E2%9C%A8" alt="Typing Animation" />
+</p>
 
 ---
 
-### 👨‍💻 **About Me**
-- 🌟 Machine Learning Engineer passionate about **AI & Deep Learning**
-- 🤖 Exploring **Generative AI, Computer Vision, NLP**
-- 🛠 Skilled in **Python, TensorFlow, PyTorch, Scikit-learn, OpenCV**
-- 💡 Goal: Build **intelligent systems** that make life easier
-- 📚 Currently learning **Advanced Neural Architectures** & **LLMs**
+### 🌟 **About Me**
+- 🔭 I’m currently working on **AI, ML & Web Development Projects**
+- 🌱 Learning **Deep Learning, Generative AI & Advanced Python**
+- 💡 Passionate about building **intelligent systems & web solutions**
+- 🏆 Future Goal: Become a **Machine Learning Engineer**
+- 📫 Reach me at: **shazimjaved@example.com** (Replace with your email)
 
 ---
 
 ### 🛠 **Tech Stack**
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
+  <!-- Programming -->
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <br/>
+  <!-- ML & AI -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <br/>
+  <!-- Web Frameworks -->
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
-
----
-
-### 🔥 **My Projects**
-- 🖼 **Computer Vision:** Face Detection, Image Classification  
-- 🧠 **Deep Learning:** CNN, RNN, LSTMs, Transformers  
-- 🗣 **NLP:** Sentiment Analysis, Chatbots  
-- 🎥 **Recommender Systems:** Movie Recommendations  
 
 ---
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shazimjaved&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shazimjaved&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shazimjaved&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shazimjaved&theme=radical" alt="GitHub Streak" height="180"/>
 </p>
 
 ---
 
-### 📫 **Connect With Me**
+### ⚡ **Fun Animated Widgets**
 <p align="center">
-  <a href="www.linkedin.com/in/shazim-javed-095472325"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:shazimjaved448@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/shazimjaved"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shazimjaved&theme=react-dark" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shazimjaved&theme=radical&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 
 ---
 
+### 🔗 **Connect with Me**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shazimjaved&theme=react-dark&hide_border=true&area=true" />
+  <a href="www.linkedin.com/in/shazim-javed-095472325" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/shazimjaved" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:shazimjaved448@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/923277228848" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
+
+---
+
+🔥 **“Code, Create, Conquer.”**
