@@ -1,15 +1,8 @@
-<!-- AI/ML-Themed Robot GIF Banner -->
-<p align="center">
-  <img src="https://i.gifer.com/76SS.gif" alt="AI/ML Banner" width="800" height="250"/>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B,+I'm+Shazim+Javed;AI/ML+Enthusiast+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Tech+Explorer+%E2%9C%A8" alt="Typing Animation" />
+</h1>
 
-
-<h1 align="center">Hi 👋, I'm Shazim Javed</h1>
 <h3 align="center">🚀 AI/ML Enthusiast | Python Developer | Web Solutions Architect</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast+%F0%9F%A4%96;Python+Programmer+%F0%9F%90%8D;Full-Stack+Web+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%E2%9C%A8" alt="Typing Animation" />
-</p>
 
 ---
 
@@ -27,6 +20,7 @@
 - 💡 Passionate about building technology with positive impact  
 
 ---
+
 ### ​ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
@@ -38,7 +32,6 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
-
 
 ---
 
@@ -59,7 +52,7 @@
   <a href="mailto:shazimjaved448@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/shazim-javed-095472325" target="_blank">
+  <a href="https://www.linkedin.com/in/shazim-javed-095472325" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/shazimjaved" target="_blank">
@@ -76,7 +69,7 @@
 ---
 
 ### ​ Direct Contact
-- **Phone**: +923277228848
+- **Phone**: +923277228848  
 - **Email**: shazimjaved448@gmail.com  
 
 ---
