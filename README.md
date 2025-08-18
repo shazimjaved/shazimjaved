@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=00F7FF&size=35&center=true&vCenter=true&width=500&lines=Hi+I'm+Shazim+Javed;AI/ML+Enthusiast;Python+Developer;Building+Intelligent+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=00F7FF&size=35&center=true&vCenter=true&width=500&lines=Hello+I'm+Shazim+Javed;AI/ML+Enthusiast;Python+Developer;Building+Intelligent+Solutions" />
 </h1>
 
 
@@ -7,7 +7,7 @@
 
 ---
 <p align="center">
-  <img src="https://cdn.pixabay.com/animation/2023/04/12/16/59/16-59-39-387_512.gif" width="200" alt="AI Animation"/>
+  <img src="https://cdn.pixabay.com/animation/2023/04/12/16/59/16-59-39-387_512.gif" width="250" alt="AI Animation"/>
 </p>
 
 ### ​ Currently Working On
