@@ -83,12 +83,6 @@
 
 ---
 
-### ​ Direct Contact
-- **Phone**: +923277228848  
-- **Email**: shazimjaved448@gmail.com  
-
----
-
 ### ​ Ready to Build Something Amazing?
 I'm always excited to collaborate on AI, machine learning, and advanced web solutions.  
 **Let's turn ideas into reality!**  
