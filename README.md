@@ -7,7 +7,7 @@
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="600" alt="AI Animation"/>
+  <img src="https://cdn.pixabay.com/animation/2023/04/12/16/59/16-59-39-387_512.gif" width="200" alt="AI Animation"/>
 </p>
 
 ### ​ Currently Working On
