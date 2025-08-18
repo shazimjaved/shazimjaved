@@ -1,10 +1,14 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B,+I'm+Shazim+Javed;AI/ML+Enthusiast+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Tech+Explorer+%E2%9C%A8" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=00F7FF&size=35&center=true&vCenter=true&width=500&lines=Hi+I'm+Shazim+Javed;AI/ML+Enthusiast;Python+Developer;Building+Intelligent+Solutions" />
 </h1>
+
 
 <h3 align="center">🚀 AI/ML Enthusiast | Python Developer | Web Solutions Architect</h3>
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="600" alt="AI Animation"/>
+</p>
 
 ### ​ Currently Working On
 - 🤖 **Advanced AI Models** – Machine learning for Computer Vision and NLP  
@@ -46,6 +50,17 @@
 </p>
 
 ---
+## 🚀 Featured Projects
+
+### ✅ Attendance Management System
+> **Tech Stack:** PHP, MySQL, HTML, CSS, JS  
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)](https://github.com/shazimjaved/attendance-management-system)
+
+---
+
+### ✅ ToDo App
+> **Tech Stack:** Flask, Python, HTML, CSS, JS  
+[![View Project](https://img.shields.io/badge/View-Project-green?style=for-the-badge)](https://github.com/shazimjaved/todo-app)
 
 ### ​ Let's Connect
 <p align="center">
