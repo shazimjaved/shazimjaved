@@ -54,7 +54,7 @@
 
 ### ✅ Attendance Management System
 > **Tech Stack:** PHP, MySQL, HTML, CSS, JS  
-[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)](https://github.com/shazimjaved/attendance-management-system)
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)](https://github.com/shazimjaved/student-attendance-management)
 
 ---
 
