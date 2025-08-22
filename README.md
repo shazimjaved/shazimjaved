@@ -3,7 +3,7 @@
 </h1>
 
 
-<h3 align="center">🚀 AI/ML Enthusiast | Python Developer | Web Solutions Architect</h3>
+<h3 align="center">🚀 AI/ML Enthusiast | Python Programmer | Web Solutions Architect</h3>
 
 ---
 <p align="center">
