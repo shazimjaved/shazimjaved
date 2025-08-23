@@ -60,7 +60,7 @@
 
 ### ✅ ToDo App
 > **Tech Stack:** Flask, Python, HTML, CSS, JS  
-[![View Project](https://img.shields.io/badge/View-Project-green?style=for-the-badge)](https://github.com/shazimjaved/todo-app)
+[![View Project](https://img.shields.io/badge/View-Project-green?style=for-the-badge)](https://github.com/shazimjaved/flask-todo-app)
 
 ### ​ Let's Connect
 <p align="center">
