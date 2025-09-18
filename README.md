@@ -59,7 +59,8 @@
 ---
 
 ### ✅ License Plate Recognition
-> **Tech Stack:** Python,YOLOv8,Opencv,SORT,OCR 
+> **Tech Stack:** Python,YOLOv8,Opencv,SORT,OCR
+> 
 [![View Project](https://img.shields.io/badge/View-Project-green?style=for-the-badge)](https://github.com/shazimjaved/License-plate-recognition)
 
 ---
