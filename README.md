@@ -61,6 +61,7 @@
 ### ✅ License Plate Recognition
 > **Tech Stack:** Python, YOLOv8, Opencv, SORT, Custom OCR 
 [![View Project](https://img.shields.io/badge/View-Project-green?style=for-the-badge)](https://github.com/shazimjaved/License-plate-recognition)
+
 ---
 ### ✅ Movie Recommender System
 > **Tech Stack:** Python,Scikit-Learn ,NLTK, Streamlit   
