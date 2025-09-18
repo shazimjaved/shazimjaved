@@ -59,7 +59,7 @@
 ---
 
 ### ✅ License Plate Recognition
-> **Tech Stack:** Python, YOLOv8, Opencv, SORT, Custom OCR 
+> **Tech Stack:** Python,YOLOv8,Opencv,SORT,OCR 
 [![View Project](https://img.shields.io/badge/View-Project-green?style=for-the-badge)](https://github.com/shazimjaved/License-plate-recognition)
 
 ---
@@ -67,6 +67,7 @@
 > **Tech Stack:** Python,Scikit-Learn ,NLTK, Streamlit   
 [![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)](https://movie-recommender-system-shazim.streamlit.app)
 
+---
 ### ​ Let's Connect
 <p align="center">
   <a href="mailto:shazimjaved448@gmail.com">
