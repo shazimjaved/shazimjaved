@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=00F7FF&size=35&center=true&vCenter=true&width=500&lines=Hello+I'm+Shazim+Javed;AI/ML+Enthusiast;Python+Programmer;Building+Intelligent+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=00F7FF&size=35&center=true&vCenter=true&width=500&lines=Hello+I'm+Shazim+Javed;AI/ML+Enthusiast;Python+developer;Building+Intelligent+Solutions" />
 </h1>
 
 
-<h3 align="center">🚀 AI/ML Enthusiast | Python Programmer | Web Solutions Architect</h3>
+<h3 align="center">🚀 AI/ML Enthusiast | Python developer | Web Solutions Architect</h3>
 
 ---
 <p align="center">
@@ -52,15 +52,19 @@
 ---
 ## 🚀 Featured Projects
 
-### ✅ Student Attendance Management System
-> **Tech Stack:** PHP, MySQL, HTML, CSS, JS  
-[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)](https://github.com/shazimjaved/student-attendance-management)
+### ✅ Hand Gesture detection (Mediapipe)
+> **Tech Stack:** Python,Opencv ,Mediapipe ,Numpy ,Pandas   
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)](https://github.com/shazimjaved/Hand-gesture-detection)
 
 ---
 
-### ✅ ToDo App
-> **Tech Stack:** Flask, Python, HTML, CSS, JS  
-[![View Project](https://img.shields.io/badge/View-Project-green?style=for-the-badge)](https://github.com/shazimjaved/flask-todo-app)
+### ✅ License Plate Recognition
+> **Tech Stack:** Python, YOLOv8, Opencv, SORT, Custom OCR 
+[![View Project](https://img.shields.io/badge/View-Project-green?style=for-the-badge)](https://github.com/shazimjaved/License-plate-recognition)
+---
+### ✅ Movie Recommender System
+> **Tech Stack:** Python,Scikit-Learn ,NLTK, Streamlit   
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)](https://movie-recommender-system-shazim.streamlit.app)
 
 ### ​ Let's Connect
 <p align="center">
