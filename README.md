@@ -52,9 +52,9 @@
 ---
 ## 🚀 Featured Projects
 
-### ✅ Hand Gesture detection (Mediapipe)
-> **Tech Stack:** Python,Opencv ,Mediapipe ,Numpy ,Pandas   
-[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)](https://github.com/shazimjaved/Hand-gesture-detection)
+### ✅ Face & Hand Gesture detection 
+> **Tech Stack:** Python,Opencv ,Mediapipe ,TensorFlow
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)](https://github.com/shazimjaved/Face_hand_gesture_recognition)
 
 ---
 
@@ -64,9 +64,9 @@
 [![View Project](https://img.shields.io/badge/View-Project-green?style=for-the-badge)](https://github.com/shazimjaved/License-plate-recognition)
 
 ---
-### ✅ Movie Recommender System
-> **Tech Stack:** Python,Scikit-Learn ,NLTK, Streamlit   
-[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)](https://movie-recommender-system-shazim.streamlit.app)
+### ✅ Advanced Cardiovascular System
+> **Tech Stack:** Flask,XG Boost,Google gemini,PostgreSQL
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)](https://github.com/shazimjaved/Advanced-cardiovascular-system)
 
 ---
 ### ​ Let's Connect
