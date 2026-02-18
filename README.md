@@ -1,61 +1,56 @@
 <div align="center">
 
-# 👋 Hi, I'm Shazim Javed!
+# Shazim Javed
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%7C+AI+Enthusiast;Healthcare+Tech+Innovator;Machine+Learning+Engineer)](https://git.io/typing-svg)
-
-[![GitHub followers](https://img.shields.io/github/followers/shazimjaved?style=for-the-badge&logo=github&label=Follow&color=3B82F6)](https://github.com/shazimjaved)
-[![GitHub stars](https://img.shields.io/github/stars/shazimjaved?style=for-the-badge&logo=github&label=Stars&color=F59E0B)](https://github.com/shazimjaved)
-[![Profile views](https://komarev.com/ghpvc/?username=shazimjaved&style=for-the-badge&color=8B5CF6)](https://github.com/shazimjaved)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=500&color=00ff99&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+AI+Engineer;Healthcare+Tech+Specialist;Machine+Learning+Practitioner)](https://git.io/typing-svg)
 
 </div>
 
+## 🧠 Technical Overview
+
+```python
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Shazim Javed"
+        self.role = "Full-Stack Developer & AI Engineer"
+        self.specialization = "Healthcare Technology"
+        self.languages = ["Python", "JavaScript", "TypeScript"]
+        self.expertise = {
+            "backend": ["Flask", "Django", "Node.js", "FastAPI"],
+            "frontend": ["React", "Vue.js", "HTML5", "CSS3"],
+            "ai_ml": ["TensorFlow", "PyTorch", "Scikit-learn", "XGBoost"],
+            "databases": ["PostgreSQL", "MongoDB", "Redis", "MySQL"],
+            "cloud": ["AWS", "Google Cloud", "Docker", "Kubernetes"]
+        }
+    
+    def current_focus(self):
+        return "Building AI-powered healthcare solutions with 92%+ prediction accuracy"
+    
+    def get_in_touch(self):
+        return "shazimjaved448@gmail.com"
+```
+
 ---
 
-## 🚀 About Me
+## 🛠️ Core Competencies
 
-I'm a passionate **Full Stack Developer** and **AI Enthusiast** specializing in **Healthcare Technology** and **Machine Learning**. I love building innovative solutions that make a real impact on people's lives, especially in the medical field.
+### 🤖 Machine Learning & AI
+- **Medical Diagnosis Systems**: Cardiovascular disease prediction with ensemble methods
+- **Natural Language Processing**: Medical text analysis and report generation
+- **Computer Vision**: Medical imaging and ECG analysis
+- **Deep Learning**: CNN, RNN, Transformer architectures for healthcare applications
 
-- 🔭 Currently working on **Advanced Healthcare AI Systems**
-- 🌱 Learning **Deep Learning** and **Computer Vision**
-- 👯 Looking to collaborate on **Healthcare Tech Projects**
-- 💬 Ask me about **Python, Machine Learning, Web Development**
-- ⚡ Fun fact: I build AI systems that can save lives! 🏥
+### 🌐 Full-Stack Development
+- **Backend Architecture**: RESTful APIs, microservices, real-time systems
+- **Frontend Engineering**: Responsive web apps with modern frameworks
+- **Database Design**: Schema optimization, query performance, data modeling
+- **Cloud Infrastructure**: Scalable deployment, CI/CD pipelines, monitoring
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🤖 AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-
-### 🌐 Web Development
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### 🏥 Healthcare Technology
+- **HIPAA Compliance**: Secure data handling and patient privacy
+- **Medical Integration**: EHR systems, DICOM processing, health standards
+- **Predictive Analytics**: Risk assessment, early detection systems
+- **AI Consultation**: Gemini-powered medical guidance systems
 
 ---
 
