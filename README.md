@@ -53,7 +53,7 @@
 ## 🚀 Featured Projects
 
 ### ✅ Face & Hand Gesture detection 
-> **Tech Stack:** Python,Opencv ,Mediapipe ,TensorFlow
+> **Tech Stack:** Python,Opencv ,Mediapipe ,TensorFlow,pyautogui
 [![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)](https://github.com/shazimjaved/Face_hand_gesture_recognition)
 
 ---
@@ -65,7 +65,7 @@
 
 ---
 ### ✅ Advanced Cardiovascular System
-> **Tech Stack:** Flask,XG Boost,Google gemini,PostgreSQL
+> **Tech Stack:** Flask,XG Boost,Google gemini,PostgreSQL,Seaborn
 [![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)](https://github.com/shazimjaved/Advanced-cardiovascular-system)
 
 ---
