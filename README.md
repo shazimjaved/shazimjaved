@@ -8,10 +8,10 @@
 AI Systems Engineer • Computer Vision Architect • ML Infrastructure Builder
 </h3>
 
-<!-- 🔥 AI GIF SECTION -->
+<!-- 🔥 YOUR ORIGINAL AI GIF -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="350" />
+  <img src="https://cdn.pixabay.com/animation/2023/04/12/16/59/16-59-39-387_512.gif" width="260" />
 </p>
 
 <p align="center">
@@ -22,9 +22,7 @@ AI Systems Engineer • Computer Vision Architect • ML Infrastructure Builder
 
 # 🧠 AI Engineering Identity
 
-I build **end-to-end AI systems** — not isolated models.
-
-From data pipelines and training workflows to optimized inference engines and scalable backend deployment, I engineer intelligent systems designed for real-world performance.
+I architect and deploy **end-to-end AI systems** — from data ingestion and model training to optimized inference pipelines and scalable backend deployment.
 
 ### Focus Areas
 - ⚙ Real-time detection & tracking systems  
@@ -146,4 +144,8 @@ From data pipelines and training workflows to optimized inference engines and sc
   <a href="https://github.com/shazimjaved">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shazimjaved&style=for-the-badge&color=00F7FF" />
 </p>
