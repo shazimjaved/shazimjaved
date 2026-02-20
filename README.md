@@ -138,7 +138,7 @@ I architect and deploy **end-to-end AI systems** — from data ingestion and mod
   <a href="mailto:shazimjaved448@gmail.com">
     <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/shazim-javed-095472325">
+  <a href="https://www.linkedin.com/in/shazimjaved">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/shazimjaved">
