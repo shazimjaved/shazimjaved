@@ -1,56 +1,61 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Shazim+Javed;AI+Systems+Engineer;Computer+Vision+Architect;Real-Time+Intelligence+Builder;Production-Grade+ML+Developer" />
-</h1>
+<!-- =========================  AI LAB HEADER  ========================= -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Systems-Architect-00F7FF?style=for-the-badge&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-Engineer-111111?style=for-the-badge&color=0A192F"/>
-  <img src="https://img.shields.io/badge/ML%20Backend-Developer-1F1F1F?style=for-the-badge&color=00C2FF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F7FF&height=200&section=header&text=Shazim%20Javed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
+<h3 align="center">
+AI Systems Engineer • Computer Vision Architect • ML Infrastructure Builder
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Designing+Intelligent+Systems;Real-Time+Computer+Vision+Pipelines;Production-Grade+ML+Deployment;Scalable+AI+Backends" />
 </p>
 
 ---
 
-# ⚡ AI Engineering Identity
+# 🧠 AI Engineering Identity
 
-I architect **end-to-end intelligent systems** — from data ingestion and model training to optimized inference pipelines and scalable backend deployment.
+I build **end-to-end AI systems** — not isolated models.
 
-My work focuses on:
+From data pipelines and training workflows to optimized inference engines and scalable backend deployment, I engineer intelligent systems designed for real-world performance.
 
-- ⚙ Real-time Computer Vision pipelines  
-- 🧠 Optimized ML inference systems  
-- 🚀 Production-ready backend APIs  
-- 📈 Scalable AI-integrated architectures  
+### Focus Areas
+- ⚙ Real-time detection & tracking systems  
+- 🧠 Deep Learning inference optimization  
+- 🚀 ML-powered REST architectures  
+- 🏗 Scalable AI backend infrastructure  
 
-> I design systems that think — and deploy them where they matter.
+> Intelligence is useless until it’s deployed.
 
 ---
 
-# 🧠 Core Technical Domains
+# ⚡ Core Technical Domains
 
 ## 🔹 Machine Learning Engineering
-- Supervised / Unsupervised Learning
-- Feature Engineering & Model Selection
-- Hyperparameter Optimization
+- Supervised & Unsupervised Learning
+- Feature Engineering
 - Model Evaluation & Benchmarking
-- Production Deployment Pipelines
+- Hyperparameter Optimization
+- Production Model Deployment
 
 ## 🔹 Computer Vision Systems
 - YOLO-based Object Detection
 - Multi-Object Tracking (SORT)
-- OCR Processing Pipelines
+- OCR Pipelines
 - Face & Hand Gesture Recognition
-- Real-Time Video Stream Optimization
+- Real-Time Video Processing
 
-## 🔹 Backend & Architecture
-- REST API Design (Flask)
-- PostgreSQL Schema Architecture
-- ML Model Serving
-- Scalable Python System Design
-- Modular & Maintainable Codebases
+## 🔹 Backend & Infrastructure
+- Flask REST APIs
+- PostgreSQL Architecture
+- Model Serving Pipelines
+- Scalable Python Systems
+- Modular Codebase Design
 
 ---
 
-# 🛠 Technology Stack
+# 🛠 Tech Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,flask,postgresql,opencv,linux,git,github&perline=5" />
@@ -62,7 +67,7 @@ My work focuses on:
 
 ---
 
-# 🚀 Advanced Engineering Projects
+# 🚀 Elite Engineering Projects
 
 ---
 
@@ -70,10 +75,10 @@ My work focuses on:
 
 **Stack:** Python • OpenCV • MediaPipe • TensorFlow • PyAutoGUI  
 
-✔ Real-time facial & hand landmark detection  
-✔ Gesture-controlled automation interface  
-✔ Optimized low-latency inference  
-✔ Efficient frame processing architecture  
+- Real-time landmark detection  
+- Gesture-driven automation interface  
+- Low-latency inference optimization  
+- Efficient video frame pipeline  
 
 🔗 https://github.com/shazimjaved/Face_hand_gesture_recognition  
 
@@ -83,10 +88,10 @@ My work focuses on:
 
 **Stack:** Python • YOLOv8 • OpenCV • SORT • OCR  
 
-✔ YOLOv8 object detection pipeline  
-✔ SORT-based vehicle tracking  
-✔ OCR-driven license plate extraction  
-✔ End-to-end real-time monitoring system  
+- YOLOv8 detection engine  
+- SORT tracking integration  
+- OCR extraction pipeline  
+- Real-time vehicle monitoring system  
 
 🔗 https://github.com/shazimjaved/License-plate-recognition  
 
@@ -96,16 +101,16 @@ My work focuses on:
 
 **Stack:** Flask • XGBoost • PostgreSQL • Gemini API • Seaborn  
 
-✔ ML-based medical risk prediction  
-✔ RESTful backend architecture  
-✔ Persistent relational database integration  
-✔ AI-assisted medical insight generation  
+- ML-based risk prediction model  
+- RESTful backend architecture  
+- Structured relational database  
+- AI-assisted medical insights  
 
 🔗 https://github.com/shazimjaved/Advanced-cardiovascular-system  
 
 ---
 
-# 📊 AI Activity Metrics
+# 📊 Performance & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shazimjaved&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF" height="170"/>
@@ -118,13 +123,23 @@ My work focuses on:
 
 ---
 
-# 🧬 Engineering Principles
+# 🐍 Contribution Snake (Final Boss Energy)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shazimjaved/shazimjaved/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+*(Enable via GitHub Actions later if not active yet.)*
+
+---
+
+# 🧬 Engineering Doctrine
 
 - Systems > Scripts  
-- Deployment > Experimentation  
-- Optimization > Guesswork  
-- Scalability > Temporary Solutions  
-- Real-World Impact > Demo Projects  
+- Deployment > Demos  
+- Optimization > Assumptions  
+- Architecture > Chaos  
+- Impact > Hype  
 
 ---
 
@@ -145,5 +160,11 @@ My work focuses on:
 ---
 
 <p align="center">
-  Open to AI Engineering Roles • Advanced ML Projects • Technical Collaborations
+Open to AI Engineering Roles • Advanced ML Systems • High-Impact Technical Collaborations
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shazimjaved&style=for-the-badge&color=00F7FF" />
+</p>
+
+<!-- =========================  END  ========================= -->
