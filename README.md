@@ -8,6 +8,12 @@
 AI Systems Engineer • Computer Vision Architect • ML Infrastructure Builder
 </h3>
 
+<!-- 🔥 AI GIF SECTION -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="350" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Designing+Intelligent+Systems;Real-Time+Computer+Vision+Pipelines;Production-Grade+ML+Deployment;Scalable+AI+Backends" />
 </p>
@@ -69,10 +75,7 @@ From data pipelines and training workflows to optimized inference engines and sc
 
 # 🚀 Elite Engineering Projects
 
----
-
 ## 🟢 Real-Time Face & Hand Gesture Recognition
-
 **Stack:** Python • OpenCV • MediaPipe • TensorFlow • PyAutoGUI  
 
 - Real-time landmark detection  
@@ -85,7 +88,6 @@ From data pipelines and training workflows to optimized inference engines and sc
 ---
 
 ## 🟢 Automatic License Plate Recognition (ALPR)
-
 **Stack:** Python • YOLOv8 • OpenCV • SORT • OCR  
 
 - YOLOv8 detection engine  
@@ -98,7 +100,6 @@ From data pipelines and training workflows to optimized inference engines and sc
 ---
 
 ## 🟢 AI Cardiovascular Risk Analysis Platform
-
 **Stack:** Flask • XGBoost • PostgreSQL • Gemini API • Seaborn  
 
 - ML-based risk prediction model  
@@ -120,16 +121,6 @@ From data pipelines and training workflows to optimized inference engines and sc
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shazimjaved&theme=tokyo-night&hide_border=true&color=00F7FF"/>
 </p>
-
----
-
-# 🐍 Contribution Snake (Final Boss Energy)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shazimjaved/shazimjaved/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-*(Enable via GitHub Actions later if not active yet.)*
 
 ---
 
@@ -156,15 +147,3 @@ From data pipelines and training workflows to optimized inference engines and sc
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
----
-
-<p align="center">
-Open to AI Engineering Roles • Advanced ML Systems • High-Impact Technical Collaborations
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shazimjaved&style=for-the-badge&color=00F7FF" />
-</p>
-
-<!-- =========================  END  ========================= -->
