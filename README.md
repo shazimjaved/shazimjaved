@@ -1,72 +1,68 @@
 <h1 align="center">
-  Shazim Javed
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Shazim+Javed;AI+Systems+Engineer;Computer+Vision+Specialist;Building+Production-Grade+Intelligence" />
 </h1>
 
-<h3 align="center">
-AI Systems Engineer • Computer Vision Specialist • ML Backend Architect
-</h3>
-
 <p align="center">
-Building production-grade intelligent systems with real-world impact.
+  <img src="https://img.shields.io/badge/AI-Engineer-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer-Vision-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ML-Backend-0A192F?style=for-the-badge" />
 </p>
 
 ---
 
-## ⚡ Engineering Profile
+# ⚡ Engineering Identity
 
-I design and deploy **end-to-end AI systems** — from model training to real-time inference pipelines and backend integration.
+I architect and deploy **end-to-end AI systems** — from data pipelines and model training to real-time inference and backend integration.
 
-Focused on:
-- High-performance Computer Vision systems
-- Real-time detection & tracking pipelines
-- ML model optimization & deployment
-- AI-integrated backend architectures
+Focused on building:
 
-I don’t just train models — I build scalable systems around them.
+- ⚙ High-performance Computer Vision systems  
+- ⚡ Real-time detection & tracking pipelines  
+- 🧠 Optimized ML inference architectures  
+- 🏗 Scalable AI-integrated backend systems  
+
+> I build systems around models — not just notebooks.
 
 ---
 
-## 🧠 Technical Expertise
+# 🧠 Technical Capabilities
 
-### 🔹 Machine Learning
+## 🔹 Machine Learning Engineering
 - Supervised & Unsupervised Learning
-- Feature Engineering
+- Feature Engineering & Model Selection
 - Hyperparameter Optimization
 - Model Evaluation & Benchmarking
-- Production Deployment
+- Production Model Deployment
 
-### 🔹 Computer Vision
+## 🔹 Computer Vision Systems
 - YOLO-based Object Detection
 - Multi-Object Tracking (SORT)
 - OCR Pipelines
-- Face & Gesture Recognition
-- Real-time Video Stream Processing
+- Face & Hand Gesture Recognition
+- Real-Time Video Processing
 
-### 🔹 Backend & Architecture
-- REST APIs (Flask)
-- PostgreSQL Database Design
-- ML Model Serving
+## 🔹 Backend & System Design
+- REST APIs with Flask
+- PostgreSQL Database Architecture
+- ML Model Serving Pipelines
 - Scalable Python Systems
-- Modular Code Architecture
+- Modular & Maintainable Codebases
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,flask,postgresql,opencv" />
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,linux" />
-
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,flask,postgresql,opencv,linux,git,github" />
 </p>
 
-**Core Libraries:**  
-NumPy • Pandas • Scikit-learn • XGBoost • MediaPipe • Seaborn
+<p align="center">
+  NumPy • Pandas • Scikit-learn • XGBoost • MediaPipe • Seaborn
+</p>
 
 ---
 
-# 🚀 Featured Engineering Projects
+# 🚀 Engineering Projects
 
 ---
 
@@ -75,9 +71,9 @@ NumPy • Pandas • Scikit-learn • XGBoost • MediaPipe • Seaborn
 **Stack:** Python • OpenCV • MediaPipe • TensorFlow • PyAutoGUI  
 
 ✔ Real-time landmark detection  
-✔ Gesture-driven automation control  
-✔ Optimized inference pipeline  
-✔ Low-latency frame processing  
+✔ Gesture-based automation system  
+✔ Low-latency inference optimization  
+✔ Efficient frame processing pipeline  
 
 🔗 https://github.com/shazimjaved/Face_hand_gesture_recognition  
 
@@ -87,10 +83,10 @@ NumPy • Pandas • Scikit-learn • XGBoost • MediaPipe • Seaborn
 
 **Stack:** Python • YOLOv8 • OpenCV • SORT • OCR  
 
-✔ YOLOv8-based detection  
-✔ SORT tracking integration  
-✔ OCR extraction pipeline  
-✔ Real-time vehicle monitoring system  
+✔ YOLOv8 detection pipeline  
+✔ SORT-based multi-object tracking  
+✔ OCR-based plate extraction  
+✔ End-to-end real-time monitoring system  
 
 🔗 https://github.com/shazimjaved/License-plate-recognition  
 
@@ -100,20 +96,20 @@ NumPy • Pandas • Scikit-learn • XGBoost • MediaPipe • Seaborn
 
 **Stack:** Flask • XGBoost • PostgreSQL • Gemini API • Seaborn  
 
-✔ ML-based risk prediction  
-✔ RESTful backend API  
-✔ Database-backed system  
-✔ AI-assisted medical insights  
+✔ ML-based medical risk prediction  
+✔ RESTful backend architecture  
+✔ Persistent database design  
+✔ AI-assisted health insights  
 
 🔗 https://github.com/shazimjaved/Advanced-cardiovascular-system  
 
 ---
 
-## 📊 GitHub Performance
+# 📊 GitHub Intelligence Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shazimjaved&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shazimjaved&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shazimjaved&theme=tokyonight&hide_border=true&ring=00F7FF" height="170"/>
 </p>
 
 <p align="center">
@@ -122,31 +118,31 @@ NumPy • Pandas • Scikit-learn • XGBoost • MediaPipe • Seaborn
 
 ---
 
-## 📫 Connect
+# 📫 Connect With Me
 
 <p align="center">
   <a href="mailto:shazimjaved448@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Contact-00F7FF?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/shazim-javed-095472325">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://github.com/shazimjaved">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-111111?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 ---
 
-### 🧩 Engineering Mindset
+# 🧩 Engineering Principles
 
-- Systems over scripts  
-- Performance over prototypes  
-- Deployment over experimentation  
-- Impact over hype  
+- Systems > Scripts  
+- Deployment > Experimentation  
+- Optimization > Assumptions  
+- Real-world impact > Academic demos  
 
 ---
 
 <p align="center">
-  Open to AI/ML Engineering Roles • Freelance AI Projects • Technical Collaborations
+  Open to AI/ML Engineering Roles • Freelance AI Systems • Advanced Technical Collaborations
 </p>
