@@ -147,5 +147,5 @@ I architect and deploy **end-to-end AI systems** — from data ingestion and mod
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shazimjaved&style=for-the-badge&color=00F7FF&labelColor=111111"/>
+  <img src="https://komarev.com/ghpvc/?username=shazimjaved&style=for-the-badge&label=PROFILE+VIEWS&color=0A0F1C&labelColor=00F7FF"/>
 </p>
