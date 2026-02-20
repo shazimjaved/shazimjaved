@@ -1,138 +1,152 @@
-# Shazim Javed  
-### AI/ML Engineer | Computer Vision Specialist | Python Backend Developer
+<h1 align="center">
+  Shazim Javed
+</h1>
+
+<h3 align="center">
+AI Systems Engineer • Computer Vision Specialist • ML Backend Architect
+</h3>
+
+<p align="center">
+Building production-grade intelligent systems with real-world impact.
+</p>
 
 ---
 
-## 👨‍💻 Professional Summary
+## ⚡ Engineering Profile
 
-AI/ML Engineer focused on building production-ready intelligent systems with strong expertise in **Computer Vision, Deep Learning, and AI-integrated backend systems**.
+I design and deploy **end-to-end AI systems** — from model training to real-time inference pipelines and backend integration.
 
-I specialize in designing scalable ML pipelines, optimizing real-time inference systems, and deploying AI models into practical, high-performance applications.
+Focused on:
+- High-performance Computer Vision systems
+- Real-time detection & tracking pipelines
+- ML model optimization & deployment
+- AI-integrated backend architectures
+
+I don’t just train models — I build scalable systems around them.
 
 ---
 
-## 🧠 Core Competencies
+## 🧠 Technical Expertise
 
-### Machine Learning & Deep Learning
-- Supervised / Unsupervised Learning
+### 🔹 Machine Learning
+- Supervised & Unsupervised Learning
 - Feature Engineering
-- Model Evaluation & Optimization
-- Hyperparameter Tuning
-- Production Deployment of ML Models
+- Hyperparameter Optimization
+- Model Evaluation & Benchmarking
+- Production Deployment
 
-### Computer Vision
-- Object Detection (YOLO-based architectures)
-- Real-time Video Processing
+### 🔹 Computer Vision
+- YOLO-based Object Detection
+- Multi-Object Tracking (SORT)
 - OCR Pipelines
 - Face & Gesture Recognition
-- Multi-Object Tracking (SORT)
+- Real-time Video Stream Processing
 
-### Backend & Systems
-- REST API Development (Flask)
-- PostgreSQL Integration
-- Model Serving & Inference Pipelines
-- Scalable System Architecture
-- Clean Modular Python Design
-
----
-
-## 🛠 Technical Stack
-
-### Languages
-- Python
-
-### ML / DL Frameworks
-- PyTorch
-- TensorFlow
-- Keras
-- Scikit-learn
-- XGBoost
-
-### Computer Vision
-- OpenCV
-- MediaPipe
-- YOLOv8
-
-### Data & Backend
-- Pandas
-- NumPy
-- PostgreSQL
-- Flask
-
-### Visualization
-- Matplotlib
-- Seaborn
+### 🔹 Backend & Architecture
+- REST APIs (Flask)
+- PostgreSQL Database Design
+- ML Model Serving
+- Scalable Python Systems
+- Modular Code Architecture
 
 ---
 
-# 🚀 Featured Projects
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,flask,postgresql,opencv" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,linux" />
+
+</p>
+
+**Core Libraries:**  
+NumPy • Pandas • Scikit-learn • XGBoost • MediaPipe • Seaborn
 
 ---
 
-## 1️⃣ Face & Hand Gesture Recognition System  
-**Tech Stack:** Python, OpenCV, MediaPipe, TensorFlow, PyAutoGUI  
-
-- Real-time face and hand landmark detection  
-- Gesture-based automation control  
-- Optimized low-latency frame processing  
-- Designed for real-time inference environments  
-
-🔗 Repository:  
-https://github.com/shazimjaved/Face_hand_gesture_recognition  
+# 🚀 Featured Engineering Projects
 
 ---
 
-## 2️⃣ Automatic License Plate Recognition (ALPR)  
-**Tech Stack:** Python, YOLOv8, OpenCV, SORT, OCR  
+## 🟢 Real-Time Face & Hand Gesture Recognition
 
-- YOLOv8-based object detection  
-- SORT-based vehicle tracking  
-- OCR pipeline for plate text extraction  
-- End-to-end real-time monitoring system  
+**Stack:** Python • OpenCV • MediaPipe • TensorFlow • PyAutoGUI  
 
-🔗 Repository:  
-https://github.com/shazimjaved/License-plate-recognition  
+✔ Real-time landmark detection  
+✔ Gesture-driven automation control  
+✔ Optimized inference pipeline  
+✔ Low-latency frame processing  
 
----
-
-## 3️⃣ AI-Based Cardiovascular Risk Prediction System  
-**Tech Stack:** Flask, XGBoost, PostgreSQL, Gemini API, Seaborn  
-
-- Machine learning-based health risk prediction  
-- RESTful backend API using Flask  
-- Database-backed patient record management  
-- Data visualization and AI-assisted insights  
-
-🔗 Repository:  
-https://github.com/shazimjaved/Advanced-cardiovascular-system  
+🔗 https://github.com/shazimjaved/Face_hand_gesture_recognition  
 
 ---
 
-## 📊 GitHub Analytics
+## 🟢 Automatic License Plate Recognition (ALPR)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shazimjaved&show_icons=true&theme=radical)
+**Stack:** Python • YOLOv8 • OpenCV • SORT • OCR  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shazimjaved&theme=radical)
+✔ YOLOv8-based detection  
+✔ SORT tracking integration  
+✔ OCR extraction pipeline  
+✔ Real-time vehicle monitoring system  
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shazimjaved&theme=react-dark)
-
----
-
-## 📫 Contact
-
-- 📧 Email: shazimjaved448@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/shazim-javed-095472325  
-- 💻 GitHub: https://github.com/shazimjaved  
+🔗 https://github.com/shazimjaved/License-plate-recognition  
 
 ---
 
-## ⚡ Engineering Philosophy
+## 🟢 AI Cardiovascular Risk Analysis Platform
 
-- Build systems, not just models  
-- Optimize for performance and scalability  
-- Write clean, maintainable, modular Python  
-- Focus on real-world impact of AI solutions  
+**Stack:** Flask • XGBoost • PostgreSQL • Gemini API • Seaborn  
+
+✔ ML-based risk prediction  
+✔ RESTful backend API  
+✔ Database-backed system  
+✔ AI-assisted medical insights  
+
+🔗 https://github.com/shazimjaved/Advanced-cardiovascular-system  
 
 ---
 
-*Open to AI/ML engineering roles, freelance AI projects, and technical collaborations.*
+## 📊 GitHub Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shazimjaved&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shazimjaved&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shazimjaved&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Connect
+
+<p align="center">
+  <a href="mailto:shazimjaved448@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shazim-javed-095472325">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/shazimjaved">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+### 🧩 Engineering Mindset
+
+- Systems over scripts  
+- Performance over prototypes  
+- Deployment over experimentation  
+- Impact over hype  
+
+---
+
+<p align="center">
+  Open to AI/ML Engineering Roles • Freelance AI Projects • Technical Collaborations
+</p>
