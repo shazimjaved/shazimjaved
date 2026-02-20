@@ -136,16 +136,16 @@ I architect and deploy **end-to-end AI systems** — from data ingestion and mod
 
 <p align="center">
   <a href="mailto:shazimjaved448@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-0A0F1C?style=for-the-badge&logo=gmail&logoColor=00F7FF&labelColor=111111&color=00F7FF"/>
   </a>
-  <a href="https://www.linkedin.com/in/shazimjaved">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/shazim-javed-095472325">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111"/>
   </a>
   <a href="https://github.com/shazimjaved">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-111111?style=for-the-badge&logo=github&logoColor=00F7FF"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shazimjaved&style=for-the-badge&color=00F7FF" />
+  <img src="https://komarev.com/ghpvc/?username=shazimjaved&style=for-the-badge&color=00F7FF&labelColor=111111"/>
 </p>
