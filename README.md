@@ -1,136 +1,352 @@
+<!-- =========================================================
+     SHAZIM JAVED — AI / ML ENGINEERING PROFILE
+     ========================================================= -->
+
 <div align="center">
 
-# Shazim Javed
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:0B0F14,100:00F7FF&height=210&section=header&text=SHAZIM%20JAVED&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"/>
 
-### AI Systems Engineer · Computer Vision · Machine Learning
+### `AI SYSTEMS ENGINEER` · `COMPUTER VISION` · `ML ENGINEERING`
 
-Building intelligent systems that move from **idea → model → production**.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=Engineering+Production-Ready+AI+Systems;Computer+Vision+%7C+Deep+Learning+%7C+ML+Infrastructure;Real-Time+Inference+%7C+Model+Serving+%7C+AI+Backends;From+Research+Prototype+to+Deployable+System"/>
 
 <br>
 
-<img src="https://cdn.pixabay.com/animation/2023/04/12/16/59/16-59-39-387_512.gif" width="260" alt="AI Animation" />
-
-<br><br>
-
-<a href="https://github.com/shazimjaved">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/shazim-javed-095472325">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:shazimjaved448@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
+<img src="https://cdn.pixabay.com/animation/2023/04/12/16/59/16-59-39-387_512.gif" width="280" alt="AI System Animation"/>
 
 </div>
 
 ---
 
-## About
+## `> whoami`
 
-I design and develop **end-to-end AI systems** across machine learning, computer vision, backend engineering, and model deployment.
+```python
+class ShazimJaved:
 
-My work focuses on turning research-oriented models into **reliable, efficient, production-ready software**.
+    role = "AI Systems Engineer"
+
+    domains = [
+        "Machine Learning",
+        "Deep Learning",
+        "Computer Vision",
+        "AI Backend Engineering",
+        "Model Deployment"
+    ]
+
+    engineering_focus = [
+        "real-time inference",
+        "model optimization",
+        "scalable AI APIs",
+        "production ML systems"
+    ]
+
+    philosophy = "Build systems, not isolated models."
+```
+
+I build **end-to-end intelligent systems** where models, data pipelines, inference engines and backend infrastructure work together as one production system.
+
+---
+
+## `// SYSTEM CAPABILITIES`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `01 / MACHINE LEARNING`
 
 ```text
-AI Development
-├── Machine Learning
-├── Computer Vision
-├── Deep Learning
-├── Model Inference
-├── AI APIs & Backends
-└── Production Deployment
+Supervised Learning
+Unsupervised Learning
+Feature Engineering
+Model Evaluation
+Hyperparameter Optimization
+Predictive Modeling
+Production Inference
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### `02 / COMPUTER VISION`
+
+```text
+Object Detection
+Multi-Object Tracking
+OCR Pipelines
+Face Recognition
+Gesture Recognition
+Video Processing
+Real-Time Vision
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### `03 / AI ENGINEERING`
+
+```text
+Model Serving
+Inference Pipelines
+REST APIs
+Data Processing
+Modular Architecture
+Backend Integration
+AI Automation
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### `04 / INFRASTRUCTURE`
+
+```text
+Linux
+PostgreSQL
+Git / GitHub
+Flask
+Scalable Python
+Deployment Pipelines
+System Optimization
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## `// TECH STACK`
+
+### `LANGUAGES`
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,html,css&perline=8" />
+</p>
+
+### `AI / ML`
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=8" />
+</p>
+
+<p align="center">
+
+`NumPy` · `Pandas` · `Scikit-learn` · `XGBoost` · `MediaPipe` · `YOLO` · `SORT` · `Seaborn`
+
+</p>
+
+### `BACKEND / DATA / SYSTEMS`
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flask,postgresql,linux,git,github&perline=8" />
+</p>
+
+---
+
+## `// ENGINEERING PIPELINE`
+
+```text
+                    ┌──────────────────────────┐
+                    │        RAW DATA          │
+                    │  Images / Video / Tabular│
+                    └────────────┬─────────────┘
+                                 │
+                                 ▼
+                    ┌──────────────────────────┐
+                    │    DATA PROCESSING       │
+                    │ Cleaning / Features /    │
+                    │ Transformation / Labels  │
+                    └────────────┬─────────────┘
+                                 │
+                                 ▼
+                    ┌──────────────────────────┐
+                    │      ML / DL MODEL       │
+                    │ Training / Validation /   │
+                    │ Optimization              │
+                    └────────────┬─────────────┘
+                                 │
+                                 ▼
+                    ┌──────────────────────────┐
+                    │     INFERENCE ENGINE     │
+                    │ Detection / Prediction /  │
+                    │ Tracking / Classification │
+                    └────────────┬─────────────┘
+                                 │
+                                 ▼
+                    ┌──────────────────────────┐
+                    │      AI BACKEND          │
+                    │ REST API / Database /     │
+                    │ Business Logic            │
+                    └────────────┬─────────────┘
+                                 │
+                                 ▼
+                    ┌──────────────────────────┐
+                    │      PRODUCTION          │
+                    │ Application / Automation /│
+                    │ Real-Time AI System       │
+                    └──────────────────────────┘
 ```
 
 ---
 
-## Core Stack
+# `// FEATURED SYSTEMS`
+
+## `01` — Real-Time Face & Hand Gesture Recognition
+
+**Computer Vision Automation System**
+
+```text
+Input
+  ↓
+Video Stream
+  ↓
+MediaPipe Landmark Detection
+  ↓
+Gesture Classification
+  ↓
+TensorFlow Inference
+  ↓
+PyAutoGUI Automation
+```
+
+**Core:** `Python` · `OpenCV` · `MediaPipe` · `TensorFlow` · `PyAutoGUI`
+
+→ [Repository](https://github.com/shazimjaved/Face_hand_gesture_recognition)
+
+---
+
+## `02` — Automatic License Plate Recognition
+
+**Real-Time Vehicle Intelligence Pipeline**
+
+```text
+Video Feed
+    ↓
+YOLOv8 Detection
+    ↓
+Vehicle / Plate Localization
+    ↓
+SORT Tracking
+    ↓
+OCR Extraction
+    ↓
+Plate Information
+```
+
+**Core:** `Python` · `YOLOv8` · `OpenCV` · `SORT` · `OCR`
+
+→ [Repository](https://github.com/shazimjaved/License-plate-recognition)
+
+---
+
+## `03` — Cardiovascular Risk Analysis Platform
+
+**ML + Backend + AI-Assisted Analysis**
+
+```text
+User Input
+    ↓
+Feature Processing
+    ↓
+XGBoost Prediction
+    ↓
+Flask REST Layer
+    ↓
+PostgreSQL
+    ↓
+AI-Assisted Analysis
+```
+
+**Core:** `Flask` · `XGBoost` · `PostgreSQL` · `Gemini API` · `Seaborn`
+
+→ [Repository](https://github.com/shazimjaved/Advanced-cardiovascular-system)
+
+---
+
+## `// ENGINEERING FOCUS`
+
+```text
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║   MODEL          →      SYSTEM          →     PRODUCT     ║
+║                                                            ║
+║   Accuracy       →      Latency         →     Reliability  ║
+║   Experiment     →      Architecture    →     Deployment  ║
+║   Prototype      →      Optimization    →     Production  ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
+
+I’m particularly interested in the layer between **AI research and real software systems**:
+
+`Model → Inference → API → Infrastructure → Application`
+
+---
+
+## `// GITHUB TELEMETRY`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,flask,postgresql,opencv,linux,git,github&perline=9" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=shazimjaved&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" height="175"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shazimjaved&theme=tokyonight&hide_border=true&background=00000000&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" height="175"/>
+
 </p>
 
 <p align="center">
-  NumPy · Pandas · Scikit-learn · XGBoost · MediaPipe · Seaborn · YOLO · SORT
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shazimjaved&bg_color=00000000&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true"/>
+
 </p>
 
 ---
 
-## Featured Projects
+## `// ENGINEERING PRINCIPLES`
 
-### Face & Hand Gesture Recognition
-
-Real-time computer vision system for gesture detection and desktop automation.
-
-**Python · OpenCV · MediaPipe · TensorFlow · PyAutoGUI**
-
-[View Repository →](https://github.com/shazimjaved/Face_hand_gesture_recognition)
-
----
-
-### Automatic License Plate Recognition
-
-Real-time vehicle and license plate recognition pipeline with detection, tracking, and OCR.
-
-**Python · YOLOv8 · OpenCV · SORT · OCR**
-
-[View Repository →](https://github.com/shazimjaved/License-plate-recognition)
+```text
+[01] Systems > Scripts
+[02] Deployment > Demonstration
+[03] Architecture > Complexity
+[04] Optimization > Assumptions
+[05] Automation > Repetition
+[06] Reliability > Hype
+[07] Measurable Results > Buzzwords
+```
 
 ---
 
-### Cardiovascular Risk Analysis Platform
-
-ML-powered application combining prediction, backend services, structured data, and AI-assisted analysis.
-
-**Flask · XGBoost · PostgreSQL · Gemini API · Seaborn**
-
-[View Repository →](https://github.com/shazimjaved/Advanced-cardiovascular-system)
-
----
-
-## What I Build
-
-| Area             | Focus                                           |
-| ---------------- | ----------------------------------------------- |
-| Machine Learning | Training, evaluation, optimization & deployment |
-| Computer Vision  | Detection, tracking, OCR & real-time inference  |
-| AI Backends      | REST APIs, model serving & data pipelines       |
-| Deep Learning    | PyTorch, TensorFlow & inference optimization    |
-| Infrastructure   | Linux, Git, PostgreSQL & scalable systems       |
-
----
-
-## GitHub Activity
+## `// CONNECT`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shazimjaved&show_icons=true&hide_border=true&theme=transparent" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shazimjaved&hide_border=true&theme=transparent" height="165" />
+
+<a href="https://github.com/shazimjaved">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shazim-javed-095472325">
+<img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+</a>
+
+<a href="mailto:shazimjaved448@gmail.com">
+<img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
+</a>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shazimjaved&theme=github-compact&hide_border=true" />
+
+<img src="https://komarev.com/ghpvc/?username=shazimjaved&style=flat-square&label=SYSTEM+VISITS&color=000000&labelColor=00F7FF"/>
+
 </p>
-
----
-
-## Engineering Principles
-
-> Build systems, not just scripts.
-> Optimize for real-world use.
-> Keep architectures simple, modular, and scalable.
-
----
 
 <div align="center">
 
-### Let's Build Something Intelligent
-
-<a href="mailto:shazimjaved448@gmail.com">Email</a>
-  ·   <a href="https://www.linkedin.com/in/shazim-javed-095472325">LinkedIn</a>
-  ·   <a href="https://github.com/shazimjaved">GitHub</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=shazimjaved&style=flat-square&label=Profile%20Views" />
+### `BUILD → OPTIMIZE → DEPLOY → REPEAT`
 
 </div>
