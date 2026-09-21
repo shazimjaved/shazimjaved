@@ -126,70 +126,150 @@ Production Deployment
 
 ---
 
-## 🚀 Featured Engineering Projects
+## 🚀 Selected Engineering Systems
+
+<p align="center">
+  <sub>
+    REINFORCEMENT LEARNING · COMPUTER VISION · COMPUTATIONAL PATHOLOGY · AI INFRASTRUCTURE
+  </sub>
+</p>
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 👁️ Face & Hand Gesture Recognition
+<h3>🤖 Reinforcement Learning Inventory Agent</h3>
 
-Real-time computer vision system combining landmark detection, gesture recognition and desktop automation.
+<p>
+An intelligent inventory optimization system combining
+<strong>PPO reinforcement learning</strong> with classical
+<strong>(s,S) inventory policies</strong> inside a discrete-event simulation environment.
+</p>
 
-**Python · OpenCV · MediaPipe · TensorFlow · PyAutoGUI**
+<p>
+<img src="https://img.shields.io/badge/PPO-111827?style=flat-square&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/Gymnasium-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/SimPy-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white"/>
+</p>
 
-<a href="https://github.com/shazimjaved/Face_hand_gesture_recognition">
-View Project →
+<sub>
+Simulation · Policy Optimization · RL Evaluation · Analytics
+</sub>
+
+<br>
+
+<a href="https://github.com/shazimjaved/RL_Agent_Simulation">
+  <strong>Explore System →</strong>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🚗 Automatic License Plate Recognition
+<h3>🧬 BRCA Whole-Slide Image Classification</h3>
 
-End-to-end ALPR pipeline for vehicle detection, plate localization, multi-object tracking and OCR extraction.
+<p>
+Deep-learning research system for <strong>BRCA1/BRCA2 gene-expression
+classification</strong> from whole-slide histology images using
+<strong>Gated Dual-Stream MIL</strong> with foundation-model features.
+</p>
 
-**Python · YOLOv8 · OpenCV · SORT · OCR**
+<p>
+<img src="https://img.shields.io/badge/PyTorch-111827?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSMIL-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/UNI-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/CONCH-111827?style=flat-square"/>
+</p>
 
-<a href="https://github.com/shazimjaved/License-plate-recognition">
-View Project →
+<sub>
+Whole-Slide Imaging · Attention MIL · Foundation Models · Grouped CV
+</sub>
+
+<br>
+
+<a href="https://github.com/shazimjaved/brca-wsi-classification-mil">
+  <strong>Explore Research →</strong>
 </a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### ❤️ Cardiovascular Risk Analysis
+<h3>🤟 Multi-Sign Language Translation</h3>
 
-Machine-learning platform combining predictive modeling, REST APIs, structured data and AI-assisted analysis.
+<p>
+Real-time bidirectional communication platform connecting
+<strong>sign language, speech, translation and 3D avatar animation</strong>
+through a mobile application and AI backend.
+</p>
 
-**Flask · XGBoost · PostgreSQL · Gemini API**
+<p>
+<img src="https://img.shields.io/badge/React_Native-111827?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/WebSockets-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-111827?style=flat-square"/>
+</p>
 
-<a href="https://github.com/shazimjaved/Advanced-cardiovascular-system">
-View Project →
+<sub>
+Sign Recognition · Speech Processing · Translation · 3D Avatar · Mobile AI
+</sub>
+
+<br>
+
+<a href="https://github.com/shazimjaved/Multi-sign-language-translation">
+  <strong>Explore System →</strong>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔬 AI Systems
+<h3>⚡ PostgreSQL Read / Write Replication</h3>
 
-Focused on transforming models into usable systems through:
+<p>
+Production-oriented backend architecture implementing
+<strong>primary/replica database routing</strong>, streaming replication,
+containerized services and optimized REST APIs.
+</p>
 
-**Data → Model → Inference → API → Application**
+<p>
+<img src="https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pytest-111827?style=flat-square"/>
+</p>
 
-Production-oriented architecture, modular design and efficient execution.
+<sub>
+Read/Write Splitting · Streaming Replication · ORM · Indexing · Testing
+</sub>
+
+<br>
+
+<a href="https://github.com/shazimjaved/flask-postgres-read-write-replica">
+  <strong>Explore Architecture →</strong>
+</a>
 
 </td>
+
 </tr>
 </table>
 
----
+<br>
 
+<p align="center">
+  <a href="https://github.com/shazimjaved?tab=repositories">
+    <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-00F7FF?style=for-the-badge&logo=github&logoColor=000000"/>
+  </a>
+</p>
+
+---
 ## 🔬 What I Build
 
 <div align="center">
