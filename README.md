@@ -18,8 +18,7 @@ AI Systems Engineer · Computer Vision · Machine Learning
      width="235"
      alt="AI Animation"/>
 
-<br><br>
-
+<br>
 <p align="center">
   <a href="https://github.com/shazimjaved">
     <img src="https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=00F7FF" />
