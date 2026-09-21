@@ -4,28 +4,36 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,55:101820,100:00F7FF&height=190&section=header&text=Shazim%20Javed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,55:101820,100:00F7FF&height=155&section=header&text=Shazim%20Javed&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=42"/>
 
-<h3>AI Systems Engineer · Computer Vision · Machine Learning</h3>
+<h3>
+AI Systems Engineer · Computer Vision · Machine Learning
+</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=820&lines=Building+Intelligent+Systems;Real-Time+Computer+Vision;Deep+Learning+%26+ML+Engineering;Scalable+AI+Backends;From+Model+to+Production"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=700&height=35&lines=From+Models+to+Production;Real-Time+Computer+Vision;Deep+Learning+%7C+ML+Engineering;Scalable+AI+Systems"/>
+  
+<br>
 
-<br><br>
-
-<img src="https://cdn.pixabay.com/animation/2023/04/12/16/59/16-59-39-387_512.gif" width="280" alt="AI Animation"/>
+<img src="https://cdn.pixabay.com/animation/2023/04/12/16/59/16-59-39-387_512.gif"
+     width="235"
+     alt="AI Animation"/>
 
 <br><br>
 
 <a href="https://github.com/shazimjaved">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=00F7FF"/>
 </a>
+
 &nbsp;
+
 <a href="https://www.linkedin.com/in/shazim-javed-095472325">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=00F7FF"/>
 </a>
+
 &nbsp;
+
 <a href="mailto:shazimjaved448@gmail.com">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=00F7FF"/>
 </a>
 
 </div>
