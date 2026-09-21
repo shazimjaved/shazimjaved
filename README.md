@@ -20,21 +20,17 @@ AI Systems Engineer · Computer Vision · Machine Learning
 
 <br><br>
 
-<a href="https://github.com/shazimjaved">
-<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=00F7FF"/>
-</a>
-
-&nbsp;
-
-<a href="https://www.linkedin.com/in/shazim-javed-095472325">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=00F7FF"/>
-</a>
-
-&nbsp;
-
-<a href="mailto:shazimjaved448@gmail.com">
-<img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=00F7FF"/>
-</a>
+<p align="center">
+  <a href="https://github.com/shazimjaved">
+    <img src="https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=00F7FF" />
+  </a>
+  <a href="https://www.linkedin.com/in/shazim-javed-095472325">
+    <img src="https://img.shields.io/badge/LinkedIn-181818?style=flat-square&logo=linkedin&logoColor=00F7FF" />
+  </a>
+  <a href="mailto:shazimjaved448@gmail.com">
+    <img src="https://img.shields.io/badge/Email-181818?style=flat-square&logo=gmail&logoColor=00F7FF" />
+  </a>
+</p>
 
 </div>
 
