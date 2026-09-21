@@ -265,7 +265,7 @@ Read/Write Splitting · Streaming Replication · ORM · Indexing · Testing
 
 <p align="center">
   <a href="https://github.com/shazimjaved?tab=repositories">
-    <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-00F7FF?style=for-the-badge&logo=github&logoColor=000000"/>
+    <img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=161B22&color=161B22" />
   </a>
 </p>
 
